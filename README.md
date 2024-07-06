@@ -14,7 +14,7 @@ This data analysis project aims to provide insights into the performance of a ca
 
 ### Data Sources
 
-Call Center Data: The primary dataset used for this analysis is the "Call Center.xlsx" file, containing detailed information about each call made by the center across the world for the month of Oct,2020.
+Call Center Data: The primary dataset used for this analysis is the "Call Center.csv" file, containing detailed information about each call made by the center across the world for the month of Oct,2020.
 
 ### Tools
  - Microsoft Excel - Data Cleaning, Data Analysis, Creating Reports
