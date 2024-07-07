@@ -9,6 +9,7 @@
 - [Findings](#findings)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the performance of a call center for the month of October,2020. By analyzing various aspects of this dataset, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the call center's performance.
 
