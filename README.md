@@ -12,6 +12,8 @@
 
 This data analysis project aims to provide insights into the performance of a call center for the month of October,2020. By analyzing various aspects of this dataset, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the call center's performance.
 
+![Call Center vs  Call](https://github.com/theshreyasinharoy/Call-Center-Data-Analysis-Using-Excel/assets/169580111/bb9cd624-ccdc-4695-9eff-757d50759ac9)
+
 ### Data Sources
 
 Call Center Data: The primary dataset used for this analysis is the "Call Center.csv" file, containing detailed information about each call made by the center across the world for the month of Oct,2020.
